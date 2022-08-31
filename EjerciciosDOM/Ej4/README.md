@@ -1,0 +1,3 @@
+# Despliega el Array!
+
+Deberás modificar el código que se encuentra en el archivo *js/script.js* para que al momento de cargar la página, muestre la información que se encuentra en el array almacenado en la constante *"DATA"*, la misma deberá desplegar un párrafo por cada elemento del array dentro del div de id "*container*". Por ejemplo, si un objeto es *{ name: "Juan", lastname: "Perez" }* en el párrafo impreso deberá decir "Juan Perez".
